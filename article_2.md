@@ -1,4 +1,4 @@
-# The End of Apps: How AI Will Turn Your Phone into a Living Surface
+# Paying for Ideas
 
 *By Fabrizio Costa*  
 *October 2025*
