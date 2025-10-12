@@ -1,12 +1,13 @@
 # The Future is an Ephemeral Surface
 
-*By Fabrizio Costa*
+**Fabrizio Costa**  | October 2025
+
 
 In the not-so-distant future, the smartphone screen may not host apps at all. Instead, it will serve as a blank canvas—waiting, listening, ready to summon the perfect interface for the task at hand. Want to edit a photo? Schedule a trip? Diagnose a symptom? You won’t tap an icon. You’ll simply speak, gesture, or let your intent be inferred. And in response, an ephemeral app will blossom into existence, tailored to your context, and vanish when its job is done.
 
 This is not science fiction. It is a logical evolution in the story of interface design, one being written right now by the convergence of artificial intelligence, personalization engines, and generative user interfaces.
 
-## From Rigid Menus to Shifting Surfaces
+## Shifting Surfaces
 
 We’ve spent decades building interfaces with fixed layouts: dropdowns, sliders, checkboxes, and tabs. These menus are like bureaucracies—rigid, impersonal, and indifferent to your actual goals. They demand that *you* learn *them*.
 
