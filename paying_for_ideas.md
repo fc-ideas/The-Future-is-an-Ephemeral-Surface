@@ -1,7 +1,6 @@
 # Paying for Ideas
 
-*By Fabrizio Costa*  
-*October 2025*
+**Fabrizio Costa**  | October 2025
 
 ---
 
