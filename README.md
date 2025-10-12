@@ -1,4 +1,4 @@
-# When AI Interfaces Disappear: The Future of Ephemeral Software
+# The Future is an Ephemeral Surface
 
 *By Fabrizio Costa*
 
@@ -48,7 +48,7 @@ The implications go deeper than UX. If interfaces are ephemeral, what becomes of
 
 This may also change how we pay for software. If AI assembles your tools on demand, maybe you pay a subscription not for access to a suite, but for usage-weighted royalties distributed across the components that powered your task.
 
-## The Future is a Surface
+## The Future
 
 The screen is not dead. But it is no longer the main character. It becomes a stage, briefly lit for each act, as your agents conjure and dissolve worlds around your needs. The UI of the future is a ghost: precise, contextual, helpful—and gone the moment you don’t need it.
 
