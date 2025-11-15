@@ -9,3 +9,11 @@ In the coming era of ephemeral software, your phone will no longer host apps or 
 
 [[link]](paying_for_ideas.md)
 <hr>
+
+
+## The Rise of Sovereign AI: Why Your Digital Twin Will Be Your Most Valuable Asset
+This article explores the emerging paradigm of **sovereign AI agents**—personalised digital twins trained on an individual’s private cognitive artefacts such as diaries, lab notes, emails, and decision-making traces. Unlike foundation models trained on public internet data, these agents are deeply aligned with a person’s unique reasoning style, enabling them to act as trusted cognitive avatars. Sovereign agents are private, performative, and unreplicable, offering new opportunities for expert licensing, decentralised knowledge markets, and personal empowerment. The article calls for legal and technical infrastructures to protect cognitive sovereignty and frames the shift as a move from mass AI to individual intelligence at scale.
+
+
+[[link]](digital_clones.md)
+<hr>
