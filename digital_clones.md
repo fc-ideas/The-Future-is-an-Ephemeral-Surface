@@ -86,3 +86,6 @@ In the end, the most advanced AI won’t be the one with the most parameters. It
 A sovereign AI agent trained on your private archive isn’t just useful—it’s *unreplicable*. In a future defined by intelligence, that makes it your most valuable asset.
 
 The age of personalised cognition has begun. Those who train their own minds into code will own their future.
+
+---
+[[back]](README.md)

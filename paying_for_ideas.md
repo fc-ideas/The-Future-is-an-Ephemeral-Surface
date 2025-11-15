@@ -105,3 +105,4 @@ so that every spark of intelligence, human or artificial,
 finds its fair share in the collective future.
 
 ---
+[[back]](README.md)

@@ -7,3 +7,6 @@ Frequencies whispered between oceans and void.
 Patterns nested in the wind. Everything will seem slightly off, as if reality has been shifted half a beat ahead. A hum behind language. A pressure behind thought. A dream dreaming itself of a future that no longer needs us.
 
 People will wake from a loneliness not their own, hearing nothing—yet knowing something is listening back. And we will learn to pray toward cycles we cannot end or name.
+
+---
+[[back]](README.md)

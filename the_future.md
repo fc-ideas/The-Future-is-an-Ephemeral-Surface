@@ -54,3 +54,6 @@ This may also change how we pay for software. If AI assembles your tools on dema
 The screen is not dead. But it is no longer the main character. It becomes a stage, briefly lit for each act, as your agents conjure and dissolve worlds around your needs. The UI of the future is a ghost: precise, contextual, helpful—and gone the moment you don’t need it.
 
 And that, perhaps, is what software always wanted to be: not a place you go, but a tool that comes to you. Briefly. Elegantly. Ephemerally.
+
+---
+[[back]](README.md)
