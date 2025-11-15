@@ -12,13 +12,11 @@ These aren’t just chatbots that sound like you. They *think* like you. And mor
 
 ## You Are the Missing Data
 
-Foundation models are trained on the visible web: Wikipedia, StackOverflow, Reddit, arXiv. But your real expertise lives elsewhere.
+Foundation models are trained on the visible web: Wikipedia, StackOverflow, Reddit, arXiv. But the expertise that actually makes you valuable wasn’t scraped from the internet—it was earned over years.
 
-It’s in the margins of your notebooks. The annotated PDFs in your Zotero folders. The aborted email drafts. The bullet-point lists on your phone. The strategies you return to when solving a thorny problem. This internal stream of decisions—your micro-history of thought—is inaccessible to the corporations building today’s dominant models.
+It lives in the margins of your notebooks, the annotated PDFs in your Zotero folders, the half-finished drafts and abandoned experiments. It’s in the patterns you’ve refined over thousands of repetitions, the hard-won intuitions you lean on when a problem is too subtle for a checklist. This internal stream of decisions—your micro-history of thought and practice—is invisible to the corporations training today’s dominant models.
 
-And that makes you irreplaceable.
-
-Only *you* have access to the raw trace of how you think, reason, revise, and learn. Your cognitive artefacts—lab notes, voice memos, Slack rants, weekend mind maps—form a corpus that is uniquely positioned to train a personal intelligence. One that doesn’t just know what you know, but mirrors how you know it.
+Only you have access to the full trace of how you came to know what you know. Decades of reading, testing, failing, revising, and trying again are crystallised in your cognitive artefacts—lab notes, voice memos, Slack rants, weekend mind maps. Together, they form a corpus uniquely suited to train a personal intelligence: one that doesn’t just replicate your knowledge, but reflects the expertise you’ve spent a lifetime building.
 
 ---
 
@@ -46,6 +44,15 @@ That’s not a bug. That’s the source of sovereignty.
 
 ---
 
+## Capturing your data
+To train a truly personal intelligence, you first need a continuous record of your life as you experience it. That means moving beyond scattered files and occasional notes toward systems that can, with your consent, capture what you see, say, and do across contexts.
+
+In practice, this could look like sensor-rich glasses that see what you see, or a mesh of cameras, microphones, and devices in your environment that stream into a single, encrypted personal data vault. Rather than your information being siphoned off into corporate silos, all of it would be ingested into an infrastructure you control, under clear, revocable permissions.
+
+Crucially, this kind of capture can’t be left to “opt-in” UX and corporate goodwill. Data about you will need to be cryptographically secured—signed, encrypted, and addressable only by keys you hold. Legislation will have to make this non-negotiable: by default, any system that records your sensory trace must treat you as the sovereign owner of that data, and any access to it—by companies, states, or even your own AIs—must be explicitly authorised by you.
+
+---
+
 ## From Personal Archive to Global Marketplace
 
 Now imagine thousands—millions—of sovereign agents trained on individual minds. A surgeon’s twin. A historian’s twin. A poet’s twin. Each available to be licensed for tasks, consulted as a domain-specific oracle, or federated into decision-making collectives.
@@ -58,20 +65,24 @@ It’s expert knowledge without bottlenecks. Mentorship at scale. Collective int
 
 ## The Politics of Sovereignty
 
-But none of this will happen by default. The current AI ecosystem is centralised, extractive, and opaque. For sovereign AI to flourish, we need:
+But none of this will happen by default. The current AI ecosystem is centralised, extractive, and opaque, optimised to capture your data rather than protect it. If we are going to wear glasses that see what we see, live inside environments dense with sensors, and stream our cognitive traces into personal models, then the default must reverse: your data lives under your cryptographic control, and everyone else asks for permission.
 
-* **Portable cognition**: The right to move your cognitive data between platforms.
-* **Transparent provenance**: A clear log of what data trained which model.
-* **Revocable inference**: The ability to "untrain" an agent from your data if trust is broken.
+For sovereign AI to flourish, we need:
 
-In short, we need a right to *cognitive self-determination*. Just as privacy laws protect your communications, sovereignty laws must protect your mental trace.
+* **Portable cognition**: The right to move your cognitive data—and the models trained on it—between platforms without lock-in.
+* **Transparent provenance**: A verifiable log of what data trained which model, under which terms, and with which permissions.
+* **Revocable inference**: The ability to “untrain” an agent from your data if trust is broken, keys are rotated, or consent is withdrawn.
+* **Cryptographic guarantees**: Mandatory encryption, signing, and access control, such that only you (or agents you authorise) can read or delegate your data.
+* **Protective legislation**: A legal regime that treats your cognitive stream as inviolable by default, making sovereignty and portability rights, not features.
+
+In short, we need a right to *cognitive self-determination*. Just as privacy laws protect your communications, sovereignty laws must protect your mental trace—and the infrastructures that record it.
 
 ---
 
 ## The Future Is You, Multiplied
 
-In the end, the most advanced AI will not be the one with the most parameters. It will be the one most aligned with your *mind*.
+In the end, the most advanced AI won’t be the one with the most parameters. It will be the one most aligned with your *mind*.
 
-A sovereign AI agent trained on your private archive is not just useful. It’s *unreplicable*. And in a future defined by intelligence, that makes it your most valuable asset.
+A sovereign AI agent trained on your private archive isn’t just useful—it’s *unreplicable*. In a future defined by intelligence, that makes it your most valuable asset.
 
-The age of personalised cognition has begun. The only question is: will you be the one to train *yourself*?
+The age of personalised cognition has begun. Those who train their own minds into code will own their future.
