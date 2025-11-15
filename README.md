@@ -17,3 +17,9 @@ This article explores the emerging paradigm of **sovereign AI agents**—persona
 
 [[link]](digital_clones.md)
 <hr>
+
+## AGI's age
+A poem for the times to come.
+
+[[link]](AGIs_age.md)
+<hr>
