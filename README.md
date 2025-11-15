@@ -1,3 +1,9 @@
+# Preamble
+These are working notes on where the future seems headed—and where I believe it ought to go. I’m sketching ideas for what apps might soon turn, how we should find ways to pay for ideas in real time, and what will happen when we will build sovereign cognitive twins from personal archives safeguarded by law and cryptography. 
+These are field reports from a possible future.
+
+
+---
 ## The Future is an Ephemeral Surface (1/2)
 In the near future, apps may no longer exist as fixed icons on our devices—instead, AI will dynamically generate ephemeral interfaces tailored to each task, blending voice, gesture, and contextual awareness to summon personalized layouts that vanish once their purpose is fulfilled, redefining not just how we interact with software but how software itself is conceived, built, and compensated.
 
@@ -23,3 +29,4 @@ A poem for the times to come.
 
 [[link]](AGIs_age.md)
 <hr>
+
