@@ -1,4 +1,4 @@
-# Paying for Ideas
+# An ideas' economy
 
 **Fabrizio Costa**  | October 2025
 
