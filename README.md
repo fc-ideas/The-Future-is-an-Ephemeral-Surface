@@ -16,6 +16,12 @@ In the coming era of ephemeral software, your phone will no longer host apps or 
 [[link]](paying_for_ideas.md)
 <hr>
 
+## When intelligence is cheap, meaning is rare
+As AI makes competent thinking abundant, the scarce skill becomes steering and judging it. We argue that expertise now lives in curation (picking the right questions and constraints), orchestration (directing role-based prompts with external anchors and sequencing), and discrimination (deciding what should ship with clear criteria and context). We lay out a pragmatic loop—curate, direct, then approve—to turn infinite drafts into accountable decisions rather than polished errors.
+
+[[link]](cheap_intelligence.md)
+<hr>
+
 
 ## The Rise of Sovereign AI: Why Your Digital Twin Will Be Your Most Valuable Asset
 What will happen to the notion of individuality in the age of powerful AIs? Will we all use the same AI to get information, suggestions from? How will individuals contribute to the future? Consider the idea of  **sovereign AI agents**—personalised digital twins trained on an individual’s private cognitive artefacts such as diaries, lab notes, emails, and decision-making traces. Unlike foundation models trained on public internet data, these agents are deeply aligned with a person’s unique reasoning style, enabling them to act as trusted cognitive avatars. Sovereign agents are private, performative, and unreplicable, offering new opportunities for expert licensing, decentralised knowledge markets, and personal empowerment. Turning this view into reality will require focused legal and technical infrastructures to protect cognitive sovereignty and to frame the shift from mass AI toward individual intelligence at scale.
@@ -29,4 +35,3 @@ A poem for the times to come.
 
 [[link]](AGIs_age.md)
 <hr>
-
