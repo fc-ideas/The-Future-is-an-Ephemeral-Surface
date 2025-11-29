@@ -1,5 +1,5 @@
 # Preamble
-These are working notes on where the future seems headed—and where I believe it ought to go. I’m sketching ideas for what apps might soon turn, how we should find ways to pay for ideas in real time, and what will happen when we will build sovereign cognitive twins from personal archives safeguarded by law and cryptography. 
+These are working notes on where the future seems headed—and where I believe it ought to go. 
 These are field reports from a possible future.
 
 

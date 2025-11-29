@@ -1,5 +1,9 @@
 # When Intelligence Is Cheap, Meaning Is Rare
 
+**Fabrizio Costa**  | November 2025
+
+---
+
 AI makes competent thinking abundant. That does not make it meaningful. Someone still has to decide where to look, what to ask, and what deserves to ship. The future is not humans vs. machines; it’s people who can steer a flood of intelligence vs. people who get swept away. When the cost of thought collapses, the premium shifts to people who can choose what matters and ignore what doesn’t.
 
 Below are three forces—and how to handle them—with the lens of a pragmatic operator. Each builds on the last: first you decide what to pay attention to, then you direct how systems work, and finally you judge what should survive.
@@ -48,3 +52,6 @@ Remember: in a world of generators, the rare asset is a sharp discriminator with
 # Toward a Useful Loop
 
 Cheap intelligence is not the point; directed intelligence is. The skill to practice is standing in the deluge and saying, “This way”—with reasons. Run one loop this week: pick a decision, pose a precise question, script roles with constraints, test against a fact, and revise. Thinking above the machine, not instead of it, is the job. The loop is small on purpose: repetition makes the transitions—curate, orchestrate, discriminate—feel natural instead of forced.
+
+---
+[[back]](README.md)
