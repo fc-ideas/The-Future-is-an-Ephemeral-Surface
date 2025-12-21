@@ -29,3 +29,8 @@ What will happen to the notion of individuality in the age of powerful AIs? Will
 A poem for the times to come.
 
 <hr>
+
+## [Utopia, as an Operating System for Agency](utopia_a_proposal.md)
+A utopian society framed as a pragmatic design spec: make agency legible, keep power revocable and local, and build institutions that reduce confusion about goals, means, and feedback so people can act and see results. Utopia can be seen as an interface problem, we argue that chronic social tension comes from opaque systems and weak feedback loops rather than scarcity alone. We outline a plural, capability-first order where status is tied to visible contribution, security prevents paralysis, and continuous correction keeps power from freezing into permanent hierarchy.
+
+<hr>
