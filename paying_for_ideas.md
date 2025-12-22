@@ -1,108 +1,64 @@
-# An ideas' economy
+# An Ideas' Economy
 
 **Fabrizio Costa**  | October 2025
 
----
+In the near future, your phone will not have apps. It may not even have an operating system in the way we use that word today. It will be a blank, intelligent surface: glass, light, and sound, waiting to be shaped by intent.
 
-### In the near future, your phone won’t have apps. It won’t even have an operating system in the way we understand it today.  
-It will be a **blank, intelligent surface**—a living medium for software that materialises, adapts, and dissolves in response to your intent.
+You will not download or update anything. You will ask for what you need, and an AI runtime will assemble the interface, logic, and workflow in seconds. When the task is done, the software dissolves. Not deleted. Not closed. Simply gone.
 
-You won’t download, install, or update anything. You’ll simply say what you need, and an AI runtime will generate the entire environment—interface, logic, and workflow—in seconds. When you’re done, it will vanish.
-
-Welcome to the era of **ephemeral software**.
-
----
+That is what ephemeral software really means: not a new kind of app, but the disappearance of the app as a stable object.
 
 ## The Surface and the Runtime
 
-Imagine holding a phone that’s just glass, sound, and light. Beneath it, an AI-powered runtime continuously listens, reasons, and builds. It doesn’t load prewritten apps; it *writes code in real time*, optimised for your context.
+Imagine a phone that is only a canvas. Beneath it sits a runtime that listens, reasons, and builds in real time. It does not launch prewritten programs; it composes tools on demand, tuned to your context.
 
-> “Book me a weekend trip to Paris and sync it with my partner’s schedule.”
+Ask it to book a weekend trip and it renders a small, precise dashboard: flights, dates, weather, and a draft plan aligned to your preferences. When you commit, it fades. The same surface can become a medical assistant, a 3D sculpting studio, or a collaborative workspace. The interface is not installed. It is summoned.
 
-The surface blooms into a travel dashboard: flights, weather, suggestions, itinerary planning—all ephemeral. It fades once the job is done.
+## Identity as the Constant
 
-The same surface can become a medical assistant, a 3D sculpting studio, or a collaborative AR canvas. The OS itself is dynamic—a **semantic fabric** that assembles whatever capability you require and then disassembles it back into nothing.
+If software is ephemeral, what persists?
 
----
+You do.
 
-## Your Data Is the Only Constant
+Your identity, preferences, and history live in a secure, cryptographically signed profile. Any surface can authenticate you and reconstruct your environment. A hotel mirror, an office wall, or a pair of glasses becomes your workspace for a moment, and then leaves no residue behind.
 
-If software dissolves, what persists?
-
-**You do.**
-
-Your identity, preferences, and history live in the cloud, **cryptographically signed** and encrypted under your personal keypair. Any surface you touch can authenticate you and reconstruct your environment within seconds.
-
-A hotel mirror, an office wall, even a pair of glasses can summon *your* workspace—secure, personalised, transient. When you leave, nothing remains. No residue of data, no cached logins, no risk.
-
-It’s the ultimate privacy model: **continuity without persistence.**
-
----
+This is continuity without persistence: privacy by default, and a world where capability follows you without the data footprint you left behind.
 
 ## Paying for Ideas, Not Apps
 
-In this new economy, there are no app developers in the traditional sense.  
-There are **idea authors**.
+In this economy, the unit of value is not a product. It is an idea.
 
-When the AI runtime generates code, it knows exactly which ideas it’s drawing from: an algorithm from a 2019 paper, a UI pattern from an open-source project, a dataset from a research consortium. Each of these contributions has a **digital fingerprint** stored on a public *Idea Ledger*.
+When the runtime assembles a tool, it can trace which ideas it relied on: an algorithm from a paper, a UI pattern from open source, a dataset from a consortium. Each contribution carries a digital fingerprint recorded on an idea ledger. Your subscription is split across the ingredients that powered your moment.
 
-As you use ephemeral apps, your monthly subscription is automatically divided among the sources that made them possible. Smart contracts on a blockchain handle the payments in real time.
-
-Every idea gets credit. Every contribution gets a fraction of the value it creates.
-
----
+Smart contracts handle distribution. Attribution is not a gesture; it is a line item.
 
 ## The Half-Life of Innovation
 
-To keep innovation alive, the system includes a decay mechanism.  
-Royalties fade over time—strong at first, then tapering to zero as the idea becomes part of the commons.
+To keep the commons alive, credit must decay.
 
-- **Years 0–2:** full payout  
-- **Years 3–5:** half payout  
-- **Years 6–10:** minimal payout  
-- **After 10:** open access, no royalties  
+Royalties are strongest at first, then taper to zero as an idea becomes part of shared infrastructure. Knowledge is rewarded early, then released. Old patents do not fossilise progress; they fade into public utility.
 
-This creates a self-refreshing intellectual ecosystem where knowledge *wants* to become free, and new contributions are continuously rewarded.
-
-Old patents don’t fossilise progress—they fade gracefully into the public domain.
-
----
+This creates a self-refreshing ecosystem: new ideas are paid, old ideas become public.
 
 ## The Economic Flip
 
-This changes everything about software economics.  
-You’re not paying for products; you’re paying for **capability**.
+The economics change from ownership to capability.
 
-- Creators are rewarded for conceptual breakthroughs, not distribution monopolies.  
-- Users gain infinite flexibility and portability.  
-- Innovation accelerates as every new idea can instantly become part of the generative pool.
+Creators are rewarded for breakthroughs, not for distribution monopolies. Users gain portability and choice. Innovation accelerates because every new idea can be composed instantly into tools without negotiating platform gatekeepers.
 
-Think of it as **Spotify for ideas**—but instead of streaming music, you stream functionality, with every play tracked, attributed, and compensated.
-
----
+Think of it as Spotify for functionality, but with transparent attribution and a built-in public domain.
 
 ## A World Without Devices
 
-Eventually, even the phone disappears.
+Over time, even the phone disappears. Every surface becomes a possible interface. Your runtime follows your identity, not your hardware. You carry a right to compute, not a device.
 
-Every surface—your desk, car, wall, or wearable lens—can become your interface.  
-Your AI runtime follows you, bound to your cryptographic identity.  
-You carry not a device, but a *right to compute*, a subscription to an evolving intelligence.
+The OS, the app, the product — all melt into a generative fabric that assembles what you need and then steps aside.
 
-The OS, the app, the product—all melt away into a cloud of generative context.
+## The Future Is an Ephemeral Surface
 
----
+In this world, code becomes fluid, ownership becomes fractional, and identity becomes sovereign. Software exists only when you need it, and then respectfully dissolves.
 
-### The Future Is an Ephemeral Surface
-
-In this world, code becomes fluid, ownership becomes fractional, and identity becomes sovereign.  
-Software doesn’t exist until you need it—and when you’re done, it respectfully ceases to exist.
-
-What remains is you:  
-your data, your preferences, and a ledger of ideas,  
-quietly keeping score of who imagined what—  
-so that every spark of intelligence, human or artificial,  
-finds its fair share in the collective future.
+What remains is a ledger of ideas, quietly keeping score of who imagined what, so that each spark of intelligence — human or artificial — finds its fair share.
 
 ---
 [[back]](README.md)
