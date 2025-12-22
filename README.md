@@ -25,6 +25,11 @@ What will happen to the notion of individuality in the age of powerful AIs? Will
 
 <hr>
 
+## [When Everything Looks Real, Trust Becomes a User Interface Problem](trust.md)
+As generative media becomes indistinguishable from capture, trust shifts from content to provenance. This essay argues that cryptographic signatures should become a browser primitive, letting users rely on editable trust graphs that surface who attests to a piece of content rather than how it was made. It outlines a quiet return of accountability where signing is costly, and trust becomes compositional and contextual instead of binary.
+
+<hr>
+
 ## [AGI's age](AGIs_age.md)
 A poem for the times to come.
 
