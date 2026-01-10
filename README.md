@@ -3,7 +3,14 @@ These are field reports from a possible future.*
 
 
 ---
-## [The Future is an Ephemeral Surface (1/2)](the_future.md)
+
+## [AGI's age](AGIs_age.md)
+A poem for the times to come.
+
+<hr>
+
+
+## [The future is an ephemeral surface (1/2)](the_future.md)
 In the near future, apps may no longer exist as fixed icons on our devices—instead, AI will dynamically generate ephemeral interfaces tailored to each task, blending voice, gesture, and contextual awareness to summon personalized layouts that vanish once their purpose is fulfilled, redefining not just how we interact with software but how software itself is conceived, built, and compensated.
 
 <hr>
@@ -30,12 +37,23 @@ As generative media becomes indistinguishable from capture, trust shifts from co
 
 <hr>
 
-## [AGI's age](AGIs_age.md)
-A poem for the times to come.
-
-<hr>
 
 ## [Utopia, as an Operating System for Agency](utopia_a_proposal.md)
 A utopian society framed as a pragmatic design spec: make agency legible, keep power revocable and local, and build institutions that reduce confusion about goals, means, and feedback so people can act and see results. Utopia can be seen as an interface problem, we argue that chronic social tension comes from opaque systems and weak feedback loops rather than scarcity alone. We outline a plural, capability-first order where status is tied to visible contribution, security prevents paralysis, and continuous correction keeps power from freezing into permanent hierarchy.
+
+<hr>
+
+## [The Soft-Shell Exosuit: A Robot That Wears You Back](robots.md)
+This essay imagines a wearable exosuit that morphs into a standalone robot: rigid inside, soft and inflatable outside, warm and friendly when idle, and strong when you need lift. It shifts between helper, trainer, and mobility aid, blurring the line between tool and companion.
+
+<hr>
+
+## [The Swarm Tool: How Modular Robots Will Rebuild the Factory in Real Time](factory_robots.md)
+A kit of snap-together robotic modules replaces fixed factory stations, self-assembling into whatever tool the job needs. The floor becomes a choreography of arms, wheels, and micro‑drones that rebuild themselves on demand, compressing production into a single adaptable system.
+
+<hr>
+
+## [The Whisper Layer: How AI Will Turn Rooms Into Invisible Companions](audio.md)
+As directional audio and ambient sensing seep into everyday architecture, voice interfaces stop feeling like public announcements and start behaving like private side-channels. This essay imagines a world of mic arrays, device handoffs, and encrypted listening posts that let AI follow you across spaces, raising new questions about consent, surveillance, and control.
 
 <hr>
