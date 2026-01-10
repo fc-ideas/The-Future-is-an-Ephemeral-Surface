@@ -53,7 +53,7 @@ A kit of snap-together robotic modules replaces fixed factory stations, self-ass
 
 <hr>
 
-## [The Whisper Layer: How AI Will Turn Rooms Into Invisible Companions](audio.md)
+## [ The Whisper Layer: AIs as Invisible Companions](audio.md)
 As directional audio and ambient sensing seep into everyday architecture, voice interfaces stop feeling like public announcements and start behaving like private side-channels. This essay imagines a world of mic arrays, device handoffs, and encrypted listening posts that let AI follow you across spaces, raising new questions about consent, surveillance, and control.
 
 <hr>
