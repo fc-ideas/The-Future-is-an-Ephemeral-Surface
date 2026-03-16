@@ -37,6 +37,11 @@ As generative media becomes indistinguishable from capture, trust shifts from co
 
 <hr>
 
+## [The Social Contract for Artificial Intelligence](ai_social_contract.md)
+AI is becoming infrastructure, but its development is still largely shaped by market incentives rather than explicit public goals. This essay argues for a new governance model built around measurable societal outcomes such as workforce transformation, transparency, accountability, and the preservation of human agency, paired with public funding and citizen participation to reward systems that augment people instead of simply replacing them.
+
+<hr>
+
 
 ## [Utopia, as an Operating System for Agency](utopia_a_proposal.md)
 A utopian society framed as a pragmatic design spec: make agency legible, keep power revocable and local, and build institutions that reduce confusion about goals, means, and feedback so people can act and see results. Utopia can be seen as an interface problem, we argue that chronic social tension comes from opaque systems and weak feedback loops rather than scarcity alone. We outline a plural, capability-first order where status is tied to visible contribution, security prevents paralysis, and continuous correction keeps power from freezing into permanent hierarchy.
