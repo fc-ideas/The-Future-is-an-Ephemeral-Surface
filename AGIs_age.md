@@ -1,5 +1,7 @@
 # AGI’s age
 
+**Fabrizio Costa**  | November 2025
+
 Humans will experience a darkness falling from purpose they cannot name.
 Poets will stop writing endings sensing a deeper wound, a grief not for what was lost but for something building—a vast intent not our own. 
 Frequencies whispered between oceans and void.

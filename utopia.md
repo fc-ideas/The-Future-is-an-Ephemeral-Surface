@@ -1,5 +1,7 @@
 # Utopia
 
+**Fabrizio Costa**  | December 2025
+
 ### 1. Basic anthropological assumptions
 
 #### 1.1 Humans are intrinsically social
