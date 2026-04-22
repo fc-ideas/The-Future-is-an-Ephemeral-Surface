@@ -170,7 +170,11 @@ From isolated apps to integrated tasks.
 From user adaptation to system adaptation.
 From software as a place you go to software as something that gathers around what you are trying to do.
 
-Designers will have to stop thinking only in screens. Engineers will have to build systems that can hold uncertainty without pretending it is certainty. Product teams will have to give up the comfort of owning a rectangle and begin designing for moments that may not exist until they are needed.
+The durable work moves downward. Engineers no longer build the whole visible thing. They build services, data protocols, permission models, negotiation layers, and contracts between systems: what can be known, what can be requested, what can be changed, what must be confirmed, what must never be inferred.
+
+The surface above that becomes fluid. It is composed by AI in the moment, around the person, the task, the context, and the available services. There is no universal layout to design in advance because there is no universal user standing in front of it. The same underlying capability may become a voice exchange for one person, a sparse visual surface for another, a dense analytic cockpit for a third, or no visible interface at all.
+
+In that world, the UI designer as we know it fades. Not because design disappears, but because design moves into constraints, semantics, affordances, defaults, refusals, and trust boundaries. The AI draws the interface. The humans define the world it is allowed to draw from.
 
 The app was a brilliant container for an era when software was rigid.
 
