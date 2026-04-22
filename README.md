@@ -3,7 +3,15 @@
 *Working notes on where the future seems headed, and where it ought to go.*  
 *Field reports from a possible future.*
 
+## April 2026
+
+- [The Internet of Mobility](the_internet_of_mobility.md)  
+  A proposal for transport's packet moment: personal mobility pods that become the standard unit moving through shared carriers, routing systems, and modular infrastructure. The essay reframes mobility around continuity, aggregation, private space, local safety, and protocol-level interoperability.
+
 ## March 2026
+
+- [The Fifth Cognitive Revolution](cognitive_revolution.md)  
+  From language to writing to printing, each cognitive revolution removed a constraint on how knowledge moves. This essay argues that AI marks a new phase: knowledge no longer just persists or scales, but adapts itself to each individual mind through interactive dialogue.
 
 - [The Social Contract for Artificial Intelligence](ai_social_contract.md)  
   AI is becoming infrastructure, but its development is still largely shaped by market incentives rather than explicit public goals. This essay argues for a governance model built around measurable societal outcomes, human agency, public funding, and citizen participation.
