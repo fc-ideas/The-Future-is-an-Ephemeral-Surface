@@ -5,6 +5,9 @@
 
 ## April 2026
 
+- [The Interface That Isn't There](the_end_of_apps.md)  
+  A more fluid vision of the end of apps: software shifts from fixed containers to temporary, task-shaped surfaces that gather around intent. The essay explores generated interfaces, structural personalization, memory with control, multimodal interaction, shared tasks, and the need for restraint.
+
 - [The Internet of Mobility](the_internet_of_mobility.md)  
   A proposal for transport's packet moment: personal mobility pods that become the standard unit moving through shared carriers, routing systems, and modular infrastructure. The essay reframes mobility around continuity, aggregation, private space, local safety, and protocol-level interoperability.
 
