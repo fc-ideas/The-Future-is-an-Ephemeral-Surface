@@ -74,7 +74,7 @@ An assumption that can be inspected is assistance. An assumption that cannot be 
 
 So the interface becomes sparse by default and deep on demand. It shows what is needed, hides what is noise, and lets the user pull the thread when something feels wrong. Complexity is not eliminated. It is folded until called for.
 
-## Memory With a Door
+## Memory That Can Be Trusted
 
 For software to meet you halfway, it needs memory.
 
@@ -82,13 +82,13 @@ Not the shallow memory of a settings file, but the long memory of pattern: how y
 
 Over time, interaction becomes shorter. The system asks less because it knows more. It does not need you to restate your life every time you begin.
 
-But memory is power, and power needs doors.
+But memory is power, and power needs trust.
 
-You must be able to see what the system believes about you. You must be able to correct it, suspend it, erase it, or step outside it. There must be stateless modes, private modes, blank mornings where the machine is not allowed to bring yesterday into the room.
+Trust is not achieved by friendliness. It is achieved by transparency. You must be able to see what the system believes about you, where that belief came from, and how strongly it is held. You must be able to correct it, suspend it, erase it, or step outside it. There must be stateless modes, private modes, blank mornings where the machine is not allowed to bring yesterday into the room.
 
-Convenience without escape becomes captivity.
+Convenience without transparency becomes manipulation.
 
-The disappearance of apps will only be humane if the memory underneath them remains inspectable and revocable.
+The disappearance of apps will only be humane if the memory underneath them remains visible, contestable, and revocable.
 
 ## Many Ways to Mean
 
@@ -184,4 +184,3 @@ It may feel like being met.
 
 ---
 [[back]](README.md)
-
