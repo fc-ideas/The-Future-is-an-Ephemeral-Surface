@@ -3,6 +3,12 @@
 *Working notes on where the future seems headed, and where it ought to go.*  
 *Field reports from a possible future.*
 
+## May 2026
+
+- [The Future of Work-Life Balance](resting.md)  
+  The coming AI society may ultimately force humanity to rediscover something pre-industrial and biological: intelligence is rhythmic. Attention is rhythmic. Creativity is rhythmic. Even identity may become rhythmic. And survival may depend less on maximizing output than on mastering recovery across scales before the wave arrives again.
+
+
 ## April 2026
 
 - [The Interface That Isn't There](the_end_of_apps.md)  
