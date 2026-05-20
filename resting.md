@@ -29,7 +29,7 @@ Not sequentially. Continuously.
 
 The result is not traditional multitasking. It is persistent cognitive orchestration.
 
-## The Death of the Stable Loop
+## The Death of the Stable Loop
 
 Industrial society optimized around repetitive loops:
 wake → commute → work → recover → repeat.
@@ -55,7 +55,7 @@ And this creates a fundamental biological contradiction.
 
 Human beings are cyclical organisms entering a non-cyclical informational environment.
 
-## The Fractal Recovery Problem
+## The Fractal Recovery Problem
 
 The industrial answer to fatigue was simple: evenings, weekends, vacations, retirement.
 
@@ -102,7 +102,7 @@ Years.
 
 A healthy cognitive system may start to resemble biological oscillation more than industrial scheduling.
 
-## Sleep as Infrastructure
+## Sleep as Infrastructure
 
 One reason this matters is that the human brain is not optimized for perpetual partial engagement.
 
