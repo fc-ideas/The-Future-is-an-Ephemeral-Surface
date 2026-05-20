@@ -128,7 +128,7 @@ Future organizations may need:
 
 Otherwise, systems drift toward permanent attentional fragmentation.
 
-## The New Prestige Signal
+## The New Prestige Signal
 
 Interestingly, industrial society often associated status with visible exhaustion:
 long hours,
@@ -150,7 +150,7 @@ The elite skill may no longer be “working harder.”
 
 It may be managing oscillation.
 
-## Surfing, Not Climbing
+## Surfing, Not Climbing
 
 This is why the surfing metaphor matters.
 
