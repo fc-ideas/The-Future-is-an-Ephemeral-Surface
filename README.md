@@ -3,6 +3,12 @@
 *Working notes on where the future seems headed, and where it ought to go.*  
 *Field reports from a possible future.*
 
+## June 2026
+
+- [The Teacher's New Superpower Isn't AI Grading—It's AI Insight](ai_for_teachers.md)  
+  The future classroom may not be one where machines teach children. It may be one where machines help teachers see what was previously invisible.
+
+
 ## May 2026
 
 - [The Future of Work-Life Balance](resting.md)  
