@@ -5,6 +5,13 @@
 
 ## June 2026
 
+
+- [After The Ranking Machine](after_the_ranking_machine.md)  
+  The next age does not have to be the age of the machine above the human. It can be the age in which humans finally learn to stop putting everything on a single line.
+
+- [The Ranking Machine](the_ranking_machine.md)  
+  The first truly alien intelligence on Earth may not have to conquer us. It may only have to appear at the top of a scale we built long before it arrived.
+
 - [The Teacher's New Superpower Isn't AI Grading—It's AI Insight](ai_for_teachers.md)  
   The future classroom may not be one where machines teach children. It may be one where machines help teachers see what was previously invisible.
 
