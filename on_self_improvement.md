@@ -6,11 +6,7 @@
 
 Jump out of an airplane and something strange happens.
 
-For a few seconds, you accelerate. Gravity pulls you down, and you keep getting faster. Then the air begins to push back. The faster you fall, the harder it pushes. Eventually the resistance matches gravity. Your acceleration drops to zero. You are still moving very fast, but you are no longer speeding up.
-
-Physicists call this terminal velocity.
-
-It is a useful image for recursive self-improvement. Not because an AI is falling, but because improvement has an opposing force.
+For a few seconds, you accelerate. Gravity pulls you down, and you keep getting faster. Then the air begins to push back. The faster you fall, the harder it pushes. Eventually the resistance matches gravity. Your acceleration drops to zero. You are still moving very fast, but you are no longer speeding up, you have reached your terminal velocity. It is a useful image for recursive self-improvement, because improvement has an opposing force.
 
 The classic intelligence-explosion argument is simple. In 1965, mathematician I. J. Good imagined a machine intelligent enough to design a better machine. That successor could design a better successor, and so on. Each generation would improve the next. The idea later acquired the name technological singularity: a point at which change becomes so rapid that human beings can no longer predict what comes next.
 
