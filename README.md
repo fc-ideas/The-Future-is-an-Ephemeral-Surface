@@ -11,6 +11,9 @@
 - [The Most Important AI Technology Might Be an Institution](the_institution.md) \
   AI’s future will depend not only on what machines can do, but on the institutions humans build to preserve agency, constrain power, and govern systems capable of governing others.
 
+- [The Strange Cognitive Tax of Working With AI](codependency.md) \
+  AI-assisted work can increase capability and concentration while weakening memory, self-sufficiency, and the connection between producing something and understanding it.
+
 
 ## June 2026
 
