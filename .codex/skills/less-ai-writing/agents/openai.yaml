@@ -1,0 +1,4 @@
+interface:
+  display_name: "Less AI-Like Writing"
+  short_description: "Revise prose toward a distinct human voice"
+  default_prompt: "Use $less-ai-writing to revise this prose toward a more specific, natural human voice."

@@ -4,17 +4,19 @@
 
 *AI can make you dramatically more productive while leaving you more dependent, more exhausted, and strangely unable to remember what you actually did.*
 
-There is a peculiar moment that arrives when you have been working with an AI system for long enough. You open a repository you spent three days building and realize you barely know what is inside it.
+Open a repository you have been working on for three days. You know the project. You remember the reason for it, the rough shape of the architecture, and the last problem you were trying to solve.
 
-You know what the software does. You know the services it exposes. You remember why you built it and perhaps even the arguments that led you to its architecture. But the code itself has become strangely foreign. There are hundreds or thousands of lines somewhere underneath, along with tests, configuration files, dependencies, error handling, and implementation choices. You were involved in creating all of it. Yet you never really saw it.
+Then you look at the files.
+
+There is a `src` directory, a test directory, some configuration, a handful of services, and a long trail of small decisions. The names are familiar. The relationships are not. You find a function and remember asking for it. You do not remember writing it. You could probably explain what it is supposed to do. You would have to ask the machine to explain how it does it.
 
 The repository has become an object.
 
-This may be one of the more consequential changes AI is bringing to knowledge work. Much of the discussion about artificial intelligence focuses on whether the systems are intelligent enough, whether they hallucinate, whether they will replace particular jobs, or how much productivity they create. A subtler transformation is happening at the level of human cognition.
+This is one of the less visible changes AI is making to knowledge work. The loud questions are about capability, hallucinations, jobs, and productivity. The quieter question is what happens to the mind of a person who spends all day directing work they do not personally execute.
 
-AI allows us to move upward through layers of abstraction at remarkable speed. And every layer we ascend changes what it means to know what we are doing.
+Programming used to force a fairly long walk from intention to artifact. You had an idea, chose an architecture, broke it into parts, and wrote the parts. The work contained plenty of drudgery, but the drudgery gave you contact with the thing you were making.
 
-Consider programming. Traditionally, a programmer might start with an intention, translate it into an architecture, break the architecture into components, and eventually write the code. Working with an AI coding system changes that sequence. The programmer can remain at the level of intention for much longer.
+An AI coding system shortens that walk. You can stay at the level of intention:
 
 “Build a service that does this.”
 
@@ -26,125 +28,75 @@ Consider programming. Traditionally, a programmer might start with an intention,
 
 “Refactor this.”
 
-Eventually, the code begins to look less like something the programmer wrote and more like something the programmer commissioned.
+The requests are not fake work. Choosing the goal, describing the constraints, and judging the result all require skill. But the code starts to feel less like something you wrote than something you commissioned.
 
-That can be enormously powerful. It also creates a new epistemic problem: How do you know what you have?
+That creates an awkward question: how do you know what you have?
 
-You can ask the AI.
+The obvious answer is to ask the AI. Does the service handle concurrent requests? Are the tests meaningful? Is there a race condition? What happens when the network fails halfway through an operation?
 
-Does the code correctly handle concurrent requests? Are these tests sufficient? Is there an unhandled edge case here? Could this architecture produce a race condition?
+The same system that built the object now gives you the tour.
 
-But now the same system that helped construct the object is helping you inspect the object. So you climb another level.
+You are no longer reading the code. You are reading an account of the code. That account may be useful. It may also leave out the exact thing you needed to notice.
 
-Instead of inspecting the code yourself, you inspect the AI’s account of the code.
+The missing question is often the important one. You can ask the model to look for twelve weaknesses and still fail to ask about the thirteenth. You can approve a design because its explanation sounds complete. A smooth explanation can hide the fact that you never formed an independent picture of the system.
 
-Then another problem appears: How do you know whether you asked the right questions?
+So the human task moves up another level. First you direct the implementation. Then you inspect the explanation. Then you have to decide what an adequate inspection would have looked like in the first place.
 
-Perhaps you never thought to ask about an obscure failure mode. Perhaps a design assumption that seems harmless now becomes catastrophic when the system scales. Perhaps the AI found twelve weaknesses but missed the thirteenth, which happens to be the one you care about.
+AI helps with that too. It can interview you, list assumptions, propose adversarial tests, and suggest criteria for success. This is powerful. It is also a little strange. The machine keeps removing the need to perform one task, and the human keeps acquiring a more abstract task in its place.
 
-So you climb again.
+The abstraction has a cost.
 
-Now the task becomes eliciting your own criteria. What properties actually matter to me? What am I assuming? What would make this system unacceptable? What questions would reveal whether those properties hold?
+At the end of a long AI-assisted session, you may not feel distracted. You may feel trapped inside the problem. The model produces one change. You inspect it while composing the next instruction. A new edge case appears. You revise the specification. The next result arrives before the previous decision has settled.
 
-AI can help with this too. You can ask it to interview you, expose your assumptions, construct adversarial tests, or propose evaluation criteria.
+Lunch goes cold beside the keyboard.
 
-The result is a strange cognitive escalation. Each time execution becomes easier, the human role moves upward into abstraction.
+The work resembles deep focus, but the object of focus is larger than it used to be. You are holding the goals, interfaces, constraints, failure modes, and future changes in your head at the same time. The code is out of sight, so more of the surrounding system has to remain mentally available.
 
-And abstraction is not free.
+That is why a short email can feel impossible in the middle of the session. It is not that the email is difficult. Leaving the problem means unloading a structure that took hours to assemble.
 
-At higher levels, more of the system has to remain mentally available at once. You are thinking about architecture, constraints, goals, interactions, edge cases, and possible futures simultaneously. Individual implementation details disappear, but the number of relationships you must track can increase.
+The machine has made you intensely monotask.
 
-There is an abstraction tax.
+The waiting time of current systems can even help. A slow generation gives you a minute to rethink a decision or notice that your instruction was vague. A faster system may produce changes faster than you can form judgments about them. The bottleneck will not be execution. It will be thought.
 
-It often manifests as concentration.
+And then the thought goes away.
 
-The stereotype of contemporary digital life is fractured attention: notifications, short videos, endless tabs, people supposedly unable to focus for longer than thirty seconds. AI-assisted work can produce almost the opposite experience.
+While you are working, the project feels present. You know why the database is shaped that way. You know which shortcut you accepted and which one you rejected. You can see the whole arrangement, or at least it feels that way.
 
-You sit down in the morning with a problem. The AI generates something. You inspect the result. While it works on the next task, you think about the next conceptual problem. You revise the specification. Another result arrives. You discover a new issue. You move up a level and reconsider the architecture.
+A few days later, you open the repository and have to load it again.
 
-Lunch quietly disappears.
+You read the documentation. You inspect the commits. You ask the model what changed. Gradually the system returns to view. The experience is not quite debugging and not quite learning. It is closer to reopening a half-remembered conversation.
 
-Hours pass.
+Normally, making something and learning it happen together. Writing a function forces you to meet its constraints. Debugging teaches you where it breaks. Rewriting leaves a map in your head. Even tedious work has an encoding effect.
 
-The work has the phenomenology of deep focus. You are not switching among unrelated tasks. In fact, switching tasks becomes almost impossible because the working representation of the problem is so large. To answer an unrelated email would mean unloading part of the mental structure you have spent hours assembling.
+AI separates the two activities. You can produce an impressive amount of software without performing enough of the small acts that would make the software familiar.
 
-The AI has made you intensely monotask.
+The output remains. The residue may not.
 
-Paradoxically, the delays in current AI systems can help. When a difficult operation takes several minutes, that latency creates thinking time. You reconsider a decision, imagine a failure case, or formulate the next instruction. A considerably faster system could create a new problem: the machine might begin producing decisions faster than the human can form judgments about them.
+That residue is part of expertise. A programmer develops instincts from thousands of encounters with awkward interfaces, bad assumptions, slow queries, and failures that appeared only after midnight. A researcher learns where useful evidence tends to hide. Someone who plans their own journeys eventually carries a rough map of rail lines, airports, and connections.
 
-At that point, the bottleneck is no longer execution.
+Delegate the encounters and some of the map never gets drawn.
 
-It is thought.
+This is where convenience starts to look like dependence. Imagine asking an AI to plan every train journey. It checks the times, notices the connection, and chooses the sensible route. After a while, planning the journey yourself does not feel like a skill waiting to be used. It feels like an avoidable administrative punishment.
 
-This arrangement can feel extraordinarily productive. By the end of the day, you may have done what previously would have required several people or several days.
+The ability is still there. The friction has changed.
 
-Then something stranger happens.
+Walking feels slow after a bicycle. Manual arithmetic feels ridiculous after a spreadsheet. Looking through 20,000 lines of code feels irrational after you have become accustomed to asking, “Tell me what matters here.” The dependency does not arrive as helplessness. It arrives as a new baseline for what effort ought to cost.
 
-You forget it.
+That does not mean the answer is to use AI less. The higher-level work is real. Choosing the right abstraction, finding the hidden assumption, deciding what matters, and judging whether an artifact actually serves its purpose are not consolation prizes for people who can no longer implement things. They are often the work experts were trying to reach.
 
-Not immediately. While you are immersed in the task, the whole structure feels vividly present. You know why every decision exists. You understand how one component relates to another. The project seems almost physically present in working memory.
+But we do not yet have good habits for keeping our understanding while working at that altitude.
 
-But a few days later, much of that understanding has vanished.
+One useful habit would be deliberate reconstruction. Close the model and explain the architecture from memory. Draw the dependency graph. Write down the three assumptions most likely to hurt you. Predict the next failure before asking for a review. Implement one awkward part yourself, even when delegation would be faster.
 
-Returning to the project means reconstructing it. You read documents, interrogate the repository, ask the AI what was decided, inspect commit histories, and gradually reload the system into your head.
+The point is not to worship friction. It is to spend enough of it that the work leaves a trace.
 
-This creates a curious inversion of ordinary expertise.
+It may also help to keep the machine from becoming the first and last witness to every decision. Read the code before requesting a summary. Make a guess before asking for a diagnosis. When the model proposes a design, state what you think is wrong with it before asking what it missed.
 
-Traditionally, effort and memory were often coupled. The tedious work of constructing something helped encode it. Writing the function meant encountering its constraints. Debugging it meant learning its failure modes. Rewriting it created familiarity with its structure.
+These practices will feel inefficient. That is partly the point. Learning has always required some contact with resistance.
 
-AI can separate production from encoding.
+The odd possibility is that AI will create people who are more capable and less self-sufficient at the same time. They will build systems that would once have required a team. They will spend whole days in serious concentration. They will make decisions at a level of abstraction that used to belong to senior engineers and managers.
 
-You can produce more while personally retaining less of the production process.
-
-The output survives. The cognitive residue does not necessarily survive with it.
-
-This matters because expertise is partly the accumulation of residue. A programmer does not merely possess code. They develop intuitions about systems because thousands of earlier implementation details have left traces. A traveler who repeatedly plans complex journeys develops an internal model of routes, timetables, and geography. A researcher who repeatedly performs literature searches develops instincts about where evidence is likely to be found.
-
-Delegate the execution often enough and some of those traces may never form.
-
-This is where convenience turns into dependence.
-
-Imagine planning a trip. Instead of learning the rail network, comparing timetables, and reasoning about connections, you ask an AI for the best route. It checks everything and gives you an answer.
-
-This is obviously useful.
-
-But after doing this repeatedly, the prospect of planning the trip manually can start to feel absurdly laborious. If the AI service is unavailable, you may delay the task rather than perform it yourself.
-
-The same phenomenon can appear in programming, writing, analysis, administration, or research. The capability has technically not disappeared. You could still do the task manually. But its subjective cost has increased because your baseline has changed.
-
-Once you become accustomed to cognitive machinery, unaided cognition begins to feel inefficient.
-
-That is a different kind of dependency from simply forgetting how to perform a procedure. It is a dependency created by relative friction.
-
-Walking feels slow after you have owned a bicycle.
-
-Manual calculation feels tedious after you have used a spreadsheet.
-
-And inspecting 20,000 lines of code feels increasingly irrational after you have become accustomed to asking an AI, “Tell me what matters here.”
-
-The temptation is to conclude that the solution is simply to use AI less. But that misses something interesting about the new division of labor.
-
-The higher level work is real work.
-
-Formulating goals, selecting abstractions, deciding what matters, identifying hidden assumptions, and testing whether an artifact satisfies an intention are not inferior substitutes for implementation. In many cases they are exactly the activities experts have always tried to spend more time doing.
-
-The difficulty is that we do not yet have mature practices for preserving understanding while operating at those levels.
-
-The central question may therefore be less “How do we avoid becoming dependent on AI?” and more “What kinds of cognition should remain ours?”
-
-Perhaps some implementation details can safely disappear. Perhaps others need periodic direct inspection. Perhaps AI-assisted work needs deliberate moments of reconstruction: explain the architecture without consulting the model; identify the three most dangerous assumptions; write down why the major decisions were made; predict what will break before asking the AI.
-
-Such practices introduce friction deliberately.
-
-That sounds inefficient. It may also be how learning survives.
-
-Because the oddest possibility is that AI could create workers who are simultaneously more capable and less self-sufficient: able to produce systems of unprecedented complexity, yet increasingly unable to reproduce the chain of reasoning that produced them.
-
-They may work harder cognitively, not less. They may concentrate for longer periods. They may operate at levels of abstraction previously reserved for senior teams.
-
-And at the end of the day they may close the laptop, exhausted from eight hours of intense thought, having accomplished an extraordinary amount.
-
-A week later, they may open the project and ask the machine:
+Then, a week later, they will open the project and ask the machine:
 
 Remind me what we built.
 
