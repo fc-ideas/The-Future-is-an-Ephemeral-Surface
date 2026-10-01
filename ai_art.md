@@ -2,7 +2,7 @@
 
 **Fabrizio Costa**  | October 2026
 
-*The argument over AI generated art often sounds like a fight about machines. It is more revealing to see it as a fight about authorship, effort, intention, culture, and the invisible relationships that make art matter.*
+*What do we value when we value art? AI brings that question into focus: the finished work, the choices that shaped it, the person behind it, and the culture through which we encounter it.*
 
 A painting is never just a painting.
 
