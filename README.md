@@ -3,6 +3,11 @@
 *Working notes on where the future seems headed, and where it ought to go.*  
 *Field reports from a possible future.*
 
+## October 2026
+
+- [The AI Art Debate Is Really About Where We Think Human Value Lives](ai_art.md)  
+  AI art makes visible that people value more than an artifact’s appearance: authorship, effort, intention, culture, and the relationships around the work all shape its meaning.
+
 ## September 2026
 
 - [What If the Singularity Has a Terminal Velocity?](on_self_improvement.md) \
