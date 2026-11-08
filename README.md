@@ -3,6 +3,11 @@
 *Working notes on where the future seems headed, and where it ought to go.*  
 *Field reports from a possible future.*
 
+## November 2026
+
+- [The Scientists Who Teach the Machines What to Wonder](scientists_who_teach_machines.md)  
+  In an age of superintelligent scientific AI, human scientists can remain active co-leads by shaping questions, inspecting evidence, and steering research toward understanding that people can use.
+
 ## October 2026
 
 - [The AI Art Debate Is Really About Where We Think Human Value Lives](ai_art.md)  
